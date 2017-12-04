@@ -1,0 +1,1 @@
+# remove-temp-resource-groups
